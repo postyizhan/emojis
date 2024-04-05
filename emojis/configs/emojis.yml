@@ -1,0 +1,105 @@
+info:
+  namespace: "emojis"
+font_images:
+  ao_jiao:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/ao_jiao.png"
+    scale_ratio: 12
+    y_position: 10
+  chi_gua:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/chi_gua.png"
+    scale_ratio: 12
+    y_position: 10
+  da_ku:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/da_ku.png"
+    scale_ratio: 12
+    y_position: 10
+  da_xiao:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/da_xiao.png"
+    scale_ratio: 12
+    y_position: 10
+  doge1:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/doge1.png"
+    scale_ratio: 12
+    y_position: 10
+  doge2:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/doge2.png"
+    scale_ratio: 12
+    y_position: 10
+  hai_xiu:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/hai_xiu.png"
+    scale_ratio: 12
+    y_position: 10
+  jing_xi:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/jing_xi.png"
+    scale_ratio: 12
+    y_position: 10
+  jing_ya:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/jing_ya.png"
+    scale_ratio: 12
+    y_position: 10
+  la_yan:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/la_yan.png"
+    scale_ratio: 12
+    y_position: 10
+  miao:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/miao.png"
+    scale_ratio: 12
+    y_position: 10
+  ok:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/ok.png"
+    scale_ratio: 12
+    y_position: 10
+  si_kao:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/si_kao.png"
+    scale_ratio: 12
+    y_position: 10
+  wei_qu:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/wei_qu.png"
+    scale_ratio: 12
+    y_position: 10
+  xiao_ku:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/xiao_ku.png"
+    scale_ratio: 12
+    y_position: 10
+  xin:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/xin.png"
+    scale_ratio: 12
+    y_position: 10
+  zang_hu:
+    permission: group.default
+    show_in_gui: true
+    path: "bilibili/zang_hu.png"
+    scale_ratio: 12
+    y_position: 10
